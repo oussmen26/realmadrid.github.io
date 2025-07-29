@@ -1,0 +1,31 @@
+body{
+    background-color: #ffffff;
+    background-image: linear-gradient(150deg, #ffffff 40%, #af994f 100%);
+}
+fieldset{
+    border: none;
+}
+.legend{
+    font-family:'Rubik', sans-serif ;
+    font-size: 60px;   
+    text-align: center;
+}
+img{
+    width: 450px;
+    height: 537px;
+}
+.info{
+    font-family:'Rubik', sans-serif ;
+    font-size: 30px;
+    line-height: 85px;
+}
+.info2{
+    font-family:'Rubik', sans-serif ;
+    font-size: 20px;
+    font-weight: lighter;
+    padding-left: 50px;
+}
+.drapeau img{
+    width: 35px;
+    height: 35px;
+}
